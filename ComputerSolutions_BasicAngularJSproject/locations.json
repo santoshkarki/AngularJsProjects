@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "name": "Lynn Location",
+        "city":"Lynn", 
+        "state": "MA",
+        "zip": "01902",
+        "phone": "781-555-5324"
+    },
+
+    {
+        "id":2,
+        "name": "Balack Location",
+        "city":"Irving", 
+        "state": "Tx",
+        "zip": "75368",
+        "phone": "8121-555-4235"
+    },
+    {
+        "id":3,
+        "name": "Carrik Location",
+        "city":"Houston", 
+        "state": "Tx",
+        "zip": "07733",
+        "phone": "4513-555-8569"
+    }
+
+    
+]
